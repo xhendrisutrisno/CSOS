@@ -6,7 +6,7 @@
 
 3. As reported in the [article](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306608), besides its specialty with only one parameter, CSOS also has a better searching quality and searching efficiency than other metaheuristic algorithms. Our experimental results also show that CSOS can alleviate the dimensionality issues in high-dimensional problems, which exists for most methods in the literature.
 
-4. The CSOS code (written in Python) is available at https://github.com/sutrisnohendri/csos.github.io/blob/master/CSOSv01.py
+4. The CSOS code (written in Python) is available at https://github.com/sutrisnohendri/CSOS/blob/main/CSOSv01.py
 
 Please follow the reference below for further information.
 - Chao-Lung Yang and Hendri Sutrisno, (2020). **A clustering-based symbiotic organisms search for high dimensional optimization problems**, Applied Soft Computing, 106722. DOI: 10.1016/j.asoc.2020.106722
