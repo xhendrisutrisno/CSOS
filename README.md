@@ -9,4 +9,4 @@
 4. The CSOS code (written in Python) is available at https://github.com/sutrisnohendri/CSOS/blob/main/CSOSv01.py
 
 Please follow the reference below for further information.
-- Chao-Lung Yang and Hendri Sutrisno, (2020). A clustering-based symbiotic organisms search for high dimensional optimization problems, Applied Soft Computing, 106722. DOI: 10.1016/j.asoc.2020.106722.[LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306608).
+- Chao-Lung Yang and Hendri Sutrisno, (2020). A clustering-based symbiotic organisms search for high dimensional optimization problems, Applied Soft Computing, 106722. DOI: 10.1016/j.asoc.2020.106722. [[LINK]](https://www.sciencedirect.com/science/article/abs/pii/S1568494620306608).
